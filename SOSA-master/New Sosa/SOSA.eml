@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/SOSA"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="$MODULE_DIR$/lib/swt" scope="COMPILE">
+		<srcroot url="file://$MODULE_DIR$/lib/swt"/>
+		<srcroot url="jar://$MODULE_DIR$/lib/swt/src.zip!/"/>
+		<srcroot url="jar://$MODULE_DIR$/lib/swt/swt.jar!/"/>
+		<srcroot url="jar://$MODULE_DIR$/lib/swt/swt-debug.jar!/"/>
+		<relative-module-src project-related="file://$PROJECT_DIR$/lib/swt"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/lib/swt/src.zip!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/lib/swt/swt.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/lib/swt/swt-debug.jar!/"/>
+		<relative-module-cls project-related="file://$PROJECT_DIR$/lib/swt"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/swt/src.zip!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/swt/swt.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/swt/swt-debug.jar!/"/>
+	</lib>
+	<levels>
+		<level name="ardor3d-awt-0.7" value="project"/>
+		<level name="ardor3d-core-0.7" value="project"/>
+		<level name="ardor3d-lwjgl-0.7" value="project"/>
+		<level name="ardor3d-swt-0.7" value="project"/>
+		<level name="lwjgl" value="project"/>
+		<level name="guava-18.0" value="project"/>
+		<level name="lwjgl (4)" value="project"/>
+	</levels>
+</component>

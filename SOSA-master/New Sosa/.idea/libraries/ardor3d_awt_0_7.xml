@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ardor3d-awt-0.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ardor3d-awt-0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

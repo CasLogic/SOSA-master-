@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lwjgl (2)" />
+  <library name="ardor3d-core-0.7">
+    <archive path="/home/scavedo/Documents/SOSA Eclipse/lib/ardor3d-core-0.7.jar" />
+  </library>
+  <library name="guava-18.0">
+    <archive path="/home/scavedo/Documents/SOSA Eclipse/lib/guava-18.0.jar" />
+  </library>
+  <library name="lwjgl (3)">
+    <archive path="/home/scavedo/Documents/SOSA Eclipse/lib/lwjgl-2.9.3/jar/lwjgl.jar" />
+  </library>
+  <library name="ardor3d-swt-0.7">
+    <archive path="/home/scavedo/Documents/SOSA Eclipse/lib/ardor3d-swt-0.7.jar" />
+  </library>
+  <library name="ardor3d-awt-0.7">
+    <archive path="/home/scavedo/Documents/SOSA Eclipse/lib/ardor3d-awt-0.7.jar" />
+  </library>
+  <library name="lwjgl (4)">
+    <archive path="/home/scavedo/Documents/SOSA Eclipse/lib/lwjgl-2.9.3/jar/lwjgl.jar" />
+  </library>
+  <library name="ardor3d-lwjgl-0.7">
+    <archive path="/home/scavedo/Documents/SOSA Eclipse/lib/ardor3d-lwjgl-0.7.jar" />
+  </library>
+  <library name="lwjgl" />
+</eclipse-userlibraries>
+
